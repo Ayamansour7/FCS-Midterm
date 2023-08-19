@@ -1,13 +1,4 @@
 User Information:
-- emp_id: emp001
-  username: cdaoud
-  timestamp: 20220802
-  gender: male
-  salary: 12000
-
-- emp_id: emp002
-  username: manuella
-  timestamp: 20220803
-  gender: female
-  salary: 1200
+{ "emp_id": "emp001", "username": "cdaoud", "timestamp": "20220802", "gender": "male", "salary": 12000 }
+{ "emp_id": "emp002", "username": "manuella", "timestamp": "20220803", "gender": "female", "salary": 1200 }
 
